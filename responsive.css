@@ -1,0 +1,207 @@
+@media screen and (max-width: 1185px) {
+    .counteritem {
+        padding: 12px 39px;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+
+    .card-content p {
+        font-size: 1.1rem;
+    }
+
+    .contact-info {
+        width: 30%;
+    }
+}
+
+@media screen and (max-width: 1020px) {
+    .ham {
+        right: 40px;
+    }
+
+    .card-content p {
+        font-size: 1.1rem;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .counteritem {
+        padding: 12px 25px;
+    }
+
+    .counter {
+        font-size: 3rem;
+    }
+
+    .ham {
+        padding-right: 30px;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    .content {
+        width    : 80%;
+        font-size: 20px;
+    }
+
+    .btns button {
+        padding       : 0.4rem 0.4rem;
+        letter-spacing: 0.03rem;
+        font-size     : 0.5rem;
+        width         : 100px;
+
+    }
+
+    .heading-details h1 {
+        font-size: 3rem;
+    }
+
+    .details-p {
+        font-size: 1.3rem;
+    }
+
+    .service-item {
+        flex-direction: column;
+        width         : 49%;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .contactform {
+        flex-direction: column;
+        padding-bottom: 4rem;
+    }
+
+    .contact-info {
+        width       : 80%;
+        margin-right: 1rem;
+        margin-left : 2rem;
+    }
+
+    .mesage-box {
+        width       : 80%;
+        margin-right: 1rem;
+        margin-left : 2rem;
+    }
+
+    .icons i {
+        font-size: 17px;
+    }
+
+    /* 
+    .form::before {
+
+        height: 100%;
+    } */
+}
+
+@media screen and (max-width: 595px) {
+    .itemcontent p {
+        font-size: 17px;
+    }
+
+    .services {
+        padding-bottom: 3rem;
+    }
+
+    .counteritem {
+        padding: 12px 15px;
+    }
+
+    .counter {
+        font-size: 2rem;
+    }
+
+    .details {
+        padding-bottom: 4rem;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .services-heading p {
+        font-size: 1.2rem;
+    }
+
+    .contact-info {
+        width : 60% !important;
+        height: 500px;
+    }
+}
+
+@media screen and (max-width: 470px) {
+
+    .service-item {
+        flex-wrap     : wrap;
+        font-size     : 12px;
+        letter-spacing: 0;
+        width         : 82% !important;
+        padding-right : 1rem;
+    }
+
+    .heading-details h1 {
+        font-size: 1.5rem !important;
+    }
+
+    .services-info {
+        align-items    : center;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 410px) {
+    .icons {
+        display: none;
+    }
+
+    .contact-info {
+        width: 70% !important;
+
+    }
+
+    .mesage-box {
+        width: 73%;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .content {
+        line-height: 0.5rem;
+    }
+
+    .content h2 {
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (max-width: 350px) {
+    .content {
+        line-height: 0.2rem;
+        font-size  : 15px;
+        flex-wrap  : wrap;
+    }
+}
+
+@media screen and (max-width: 310px) {
+    .content h2 {
+        font-size: 0.9rem;
+    }
+
+    .contact-info {
+        margin-left : 1rem;
+        margin-right: 0rem;
+    }
+
+}
+
+
+
+
+
+
+
+
+.counter {
+    flex-wrap: wrap;
+
+}
